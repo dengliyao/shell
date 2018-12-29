@@ -1,6 +1,6 @@
 #!/bin/bash
 JENKINS_HOST=/root/.jenkins/workspace
-develop_ip=39.108.248.98
+develop_ip=3.1.1.1
 nginx_dir=/usr/local/nginx/sbin
 nginx_conf=/root/.jenkins/workspace/develop_config/nginx_config
 file_url=/root/.jenkins/workspace/dev_shell
